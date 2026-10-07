@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Nadeah",
+        "nim": "266441030",
+        "mata_kuliah": "Anatomi",
+        "nilai": 90
+    },
+    {
+        "nama": "Dila",
+        "nim": "266441026",
+        "mata_kuliah": "Ilmu Respiratori",
+        "nilai": 87
+    },
+    {
+        "nama": "Noer",
+        "nim": "266441019",
+        "mata_kuliah": "Kardiovaskuler",
+        "nilai": 97
+    },
+    {
+        "nama": "Nakhwa",
+        "nim": "266441002",
+        "mata_kuliah": "Anatomi",
+        "nilai": 97
+    }
+]
